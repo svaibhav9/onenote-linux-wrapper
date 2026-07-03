@@ -1,0 +1,14 @@
+{
+  "name": "onenote-linux",
+  "version": "0.1.0",
+  "description": "Native Microsoft OneNote wrapper for Linux",
+  "main": "src/main/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Vaibhav",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^41.7.1"
+  }
+}
