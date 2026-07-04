@@ -21,10 +21,3 @@ An unofficial Electron wrapper for Microsoft OneNote Web.
 git clone ...
 npm install
 npm start
-
-## Wacom Support
-
-The wrapper supports automatic tool switching using the Wacom pen side buttons.
-
-- **Upper side button** → Pen
-- **Lower side button** → Eraser
