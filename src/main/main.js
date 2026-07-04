@@ -10,8 +10,3 @@ app.on("window-all-closed", () => {
         app.quit();
 });
 
-const { ipcMain } = require("electron");
-
-ipcMain.on("onenote-tool", (_event, tool) => {
-    console.log("Switch to:", tool);
-});
